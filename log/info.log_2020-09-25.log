@@ -1,0 +1,902 @@
+2020-09-25 08:58:42 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 08:58:59 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 08:58:59 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 08:58:59 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 09:16:35 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 09:16:35 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 09:16:35 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 09:17:32 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 09:17:32 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 09:17:32 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 09:18:32 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 09:18:32 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 09:18:32 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 09:20:25 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 09:20:25 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 09:20:25 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 09:22:07 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 09:22:07 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 09:22:07 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 09:24:50 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 09:24:50 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 09:24:50 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 09:26:29 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 09:26:29 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 09:26:29 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 09:27:24 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 09:27:24 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 09:27:24 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 09:31:42 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 09:31:42 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 09:31:42 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 09:35:53 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 09:35:53 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 09:35:53 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:05:38 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:05:38 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:05:38 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:05:50 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:05:50 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:05:50 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:13:47 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:13:47 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:13:47 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:13:47 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 11:13:48 上午 [Thread: JavaFX Application Thread][ Class:com.company.Main >> Method: com.company.Main.startTimedTask(Main.java:568) ]
+INFO:定时任务已开启！
+2020-09-25 11:14:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 11:14:00开始扫描数据库
+2020-09-25 11:14:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:14:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:14:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:15:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 11:15:00开始扫描数据库
+2020-09-25 11:15:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:15:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:15:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:16:59 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:16:59 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:16:59 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:17:32 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:17:32 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:17:32 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:18:54 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:18:54 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:18:54 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:19:13 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:19:13 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:19:13 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:20:55 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:20:55 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:20:55 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:22:22 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:22:22 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:22:22 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:22:35 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:22:35 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:22:35 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:22:41 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:22:41 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:22:41 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:24:20 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:24:20 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:24:20 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:26:52 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:26:52 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:26:52 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:27:04 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:27:04 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:27:04 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:29:06 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:29:06 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:29:06 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:29:45 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:29:45 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:29:45 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:31:43 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:31:43 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:31:43 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:33:15 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:33:15 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:33:15 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:33:37 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:33:37 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:33:37 上午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:34:35 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:34:35 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:34:35 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:34:35 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 11:34:36 上午 [Thread: JavaFX Application Thread][ Class:com.company.Main >> Method: com.company.Main.startTimedTask(Main.java:568) ]
+INFO:定时任务已开启！
+2020-09-25 11:35:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 11:35:00开始扫描数据库
+2020-09-25 11:35:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:35:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:35:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:36:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 11:36:00开始扫描数据库
+2020-09-25 11:36:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:36:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:36:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:37:21 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:37:21 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:37:21 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:37:21 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 11:37:21 上午 [Thread: JavaFX Application Thread][ Class:com.company.Main >> Method: com.company.Main.startTimedTask(Main.java:568) ]
+INFO:定时任务已开启！
+2020-09-25 11:38:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 11:38:00开始扫描数据库
+2020-09-25 11:38:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:38:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:38:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:38:01 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 11:38:09 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:33) ]
+INFO:数据有变动
+2020-09-25 11:38:09 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:40) ]
+INFO:2020-09-25 11:38:09扫描结束：8996ms
+2020-09-25 11:44:06 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:44:06 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:44:06 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:44:06 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 11:44:07 上午 [Thread: JavaFX Application Thread][ Class:com.company.Main >> Method: com.company.Main.startTimedTask(Main.java:568) ]
+INFO:定时任务已开启！
+2020-09-25 11:45:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 11:45:00开始扫描数据库
+2020-09-25 11:45:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:45:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:45:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:45:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 11:48:25 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:48:25 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:48:25 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:48:25 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 11:48:26 上午 [Thread: JavaFX Application Thread][ Class:com.company.Main >> Method: com.company.Main.startTimedTask(Main.java:568) ]
+INFO:定时任务已开启！
+2020-09-25 11:49:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 11:49:00开始扫描数据库
+2020-09-25 11:49:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:49:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:49:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:49:01 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 11:49:07 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:33) ]
+INFO:数据有变动
+2020-09-25 11:49:07 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:40) ]
+INFO:2020-09-25 11:49:07扫描结束：7258ms
+2020-09-25 11:50:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 11:50:00开始扫描数据库
+2020-09-25 11:50:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:50:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:50:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:50:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 11:51:00 上午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 11:51:00开始扫描数据库
+2020-09-25 11:51:00 上午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:51:00 上午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:51:00 上午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:51:00 上午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 11:54:58 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:54:58 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:54:58 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:54:58 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 11:54:58 上午 [Thread: JavaFX Application Thread][ Class:com.company.Main >> Method: com.company.Main.startTimedTask(Main.java:568) ]
+INFO:定时任务已开启！
+2020-09-25 11:55:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 11:55:00开始扫描数据库
+2020-09-25 11:55:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:55:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:55:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:55:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 11:55:04 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:33) ]
+INFO:数据有变动
+2020-09-25 11:55:04 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:40) ]
+INFO:2020-09-25 11:55:04扫描结束：4446ms
+2020-09-25 11:56:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 11:56:00开始扫描数据库
+2020-09-25 11:56:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:56:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:56:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:56:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 11:57:22 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:57:22 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:57:22 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:57:22 上午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 11:57:23 上午 [Thread: JavaFX Application Thread][ Class:com.company.Main >> Method: com.company.Main.startTimedTask(Main.java:568) ]
+INFO:定时任务已开启！
+2020-09-25 11:58:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 11:58:00开始扫描数据库
+2020-09-25 11:58:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:58:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:58:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:58:00 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 11:58:04 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:33) ]
+INFO:数据有变动
+2020-09-25 11:58:04 上午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:40) ]
+INFO:2020-09-25 11:58:04扫描结束：4410ms
+2020-09-25 11:59:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 11:59:00开始扫描数据库
+2020-09-25 11:59:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 11:59:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 11:59:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 11:59:00 上午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:02:20 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:02:20 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:02:20 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:02:20 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:02:20 下午 [Thread: JavaFX Application Thread][ Class:com.company.Main >> Method: com.company.Main.startTimedTask(Main.java:568) ]
+INFO:定时任务已开启！
+2020-09-25 12:03:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:03:00开始扫描数据库
+2020-09-25 12:03:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:03:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:03:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:03:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:03:04 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:33) ]
+INFO:数据有变动
+2020-09-25 12:03:04 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:40) ]
+INFO:2020-09-25 12:03:04扫描结束：4430ms
+2020-09-25 12:04:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:04:00开始扫描数据库
+2020-09-25 12:04:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:04:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:04:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:04:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:05:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:05:00开始扫描数据库
+2020-09-25 12:05:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:05:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:05:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:05:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:06:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:06:00开始扫描数据库
+2020-09-25 12:06:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:06:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:06:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:06:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:07:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:07:00开始扫描数据库
+2020-09-25 12:07:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:07:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:07:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:07:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:08:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:08:00开始扫描数据库
+2020-09-25 12:08:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:08:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:08:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:08:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:09:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:09:00开始扫描数据库
+2020-09-25 12:09:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:09:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:09:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:09:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:10:00 下午 [Thread: DefaultQuartzScheduler_Worker-8][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:10:00开始扫描数据库
+2020-09-25 12:10:00 下午 [Thread: DefaultQuartzScheduler_Worker-8][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:10:00 下午 [Thread: DefaultQuartzScheduler_Worker-8][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:10:00 下午 [Thread: DefaultQuartzScheduler_Worker-8][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:10:00 下午 [Thread: DefaultQuartzScheduler_Worker-8][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:11:00 下午 [Thread: DefaultQuartzScheduler_Worker-9][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:11:00开始扫描数据库
+2020-09-25 12:11:00 下午 [Thread: DefaultQuartzScheduler_Worker-9][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:11:00 下午 [Thread: DefaultQuartzScheduler_Worker-9][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:11:00 下午 [Thread: DefaultQuartzScheduler_Worker-9][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:11:00 下午 [Thread: DefaultQuartzScheduler_Worker-9][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:12:00 下午 [Thread: DefaultQuartzScheduler_Worker-10][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:12:00开始扫描数据库
+2020-09-25 12:12:00 下午 [Thread: DefaultQuartzScheduler_Worker-10][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:12:00 下午 [Thread: DefaultQuartzScheduler_Worker-10][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:12:00 下午 [Thread: DefaultQuartzScheduler_Worker-10][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:12:00 下午 [Thread: DefaultQuartzScheduler_Worker-10][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:13:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:13:00开始扫描数据库
+2020-09-25 12:13:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:13:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:13:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:13:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:14:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:14:00开始扫描数据库
+2020-09-25 12:14:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:14:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:14:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:14:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:15:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:15:00开始扫描数据库
+2020-09-25 12:15:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:15:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:15:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:15:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:16:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:16:00开始扫描数据库
+2020-09-25 12:16:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:16:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:16:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:16:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:17:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:17:00开始扫描数据库
+2020-09-25 12:17:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:17:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:17:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:17:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:18:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:18:00开始扫描数据库
+2020-09-25 12:18:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:18:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:18:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:18:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:19:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:19:00开始扫描数据库
+2020-09-25 12:19:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:19:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:19:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:19:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:20:00 下午 [Thread: DefaultQuartzScheduler_Worker-8][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:20:00开始扫描数据库
+2020-09-25 12:20:00 下午 [Thread: DefaultQuartzScheduler_Worker-8][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:20:00 下午 [Thread: DefaultQuartzScheduler_Worker-8][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:20:00 下午 [Thread: DefaultQuartzScheduler_Worker-8][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:20:00 下午 [Thread: DefaultQuartzScheduler_Worker-8][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:21:00 下午 [Thread: DefaultQuartzScheduler_Worker-9][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:21:00开始扫描数据库
+2020-09-25 12:21:00 下午 [Thread: DefaultQuartzScheduler_Worker-9][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:21:00 下午 [Thread: DefaultQuartzScheduler_Worker-9][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:21:00 下午 [Thread: DefaultQuartzScheduler_Worker-9][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:21:00 下午 [Thread: DefaultQuartzScheduler_Worker-9][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:22:00 下午 [Thread: DefaultQuartzScheduler_Worker-10][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:22:00开始扫描数据库
+2020-09-25 12:22:00 下午 [Thread: DefaultQuartzScheduler_Worker-10][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:22:00 下午 [Thread: DefaultQuartzScheduler_Worker-10][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:22:00 下午 [Thread: DefaultQuartzScheduler_Worker-10][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:22:00 下午 [Thread: DefaultQuartzScheduler_Worker-10][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:23:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:23:00开始扫描数据库
+2020-09-25 12:23:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:23:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:23:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:23:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:24:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:24:00开始扫描数据库
+2020-09-25 12:24:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:24:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:24:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:24:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:25:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:25:00开始扫描数据库
+2020-09-25 12:25:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:25:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:25:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:25:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:26:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:26:00开始扫描数据库
+2020-09-25 12:26:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:26:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:26:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:26:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:27:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:27:00开始扫描数据库
+2020-09-25 12:27:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:27:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:27:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:27:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:28:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:28:00开始扫描数据库
+2020-09-25 12:28:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:28:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:28:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:28:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:29:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:29:00开始扫描数据库
+2020-09-25 12:29:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:29:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:29:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:29:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:30:00 下午 [Thread: DefaultQuartzScheduler_Worker-8][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:30:00开始扫描数据库
+2020-09-25 12:30:00 下午 [Thread: DefaultQuartzScheduler_Worker-8][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:30:00 下午 [Thread: DefaultQuartzScheduler_Worker-8][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:30:00 下午 [Thread: DefaultQuartzScheduler_Worker-8][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:30:00 下午 [Thread: DefaultQuartzScheduler_Worker-8][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:31:00 下午 [Thread: DefaultQuartzScheduler_Worker-9][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:31:00开始扫描数据库
+2020-09-25 12:31:00 下午 [Thread: DefaultQuartzScheduler_Worker-9][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:31:00 下午 [Thread: DefaultQuartzScheduler_Worker-9][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:31:00 下午 [Thread: DefaultQuartzScheduler_Worker-9][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:31:00 下午 [Thread: DefaultQuartzScheduler_Worker-9][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:32:00 下午 [Thread: DefaultQuartzScheduler_Worker-10][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:32:00开始扫描数据库
+2020-09-25 12:32:00 下午 [Thread: DefaultQuartzScheduler_Worker-10][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:32:00 下午 [Thread: DefaultQuartzScheduler_Worker-10][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:32:00 下午 [Thread: DefaultQuartzScheduler_Worker-10][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:32:00 下午 [Thread: DefaultQuartzScheduler_Worker-10][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:33:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:33:00开始扫描数据库
+2020-09-25 12:33:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:33:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:33:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:33:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:34:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:34:00开始扫描数据库
+2020-09-25 12:34:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:34:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:34:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:34:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:35:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:35:00开始扫描数据库
+2020-09-25 12:35:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:35:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:35:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:35:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:36:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:36:00开始扫描数据库
+2020-09-25 12:36:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:36:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:36:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:36:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:37:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:37:00开始扫描数据库
+2020-09-25 12:37:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:37:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:37:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:37:00 下午 [Thread: DefaultQuartzScheduler_Worker-5][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:38:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:38:00开始扫描数据库
+2020-09-25 12:38:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:38:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:38:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:38:00 下午 [Thread: DefaultQuartzScheduler_Worker-6][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:39:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:39:00开始扫描数据库
+2020-09-25 12:39:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:39:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:39:00 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:39:01 下午 [Thread: DefaultQuartzScheduler_Worker-7][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:40:18 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:40:18 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:40:18 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:40:18 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:40:19 下午 [Thread: JavaFX Application Thread][ Class:com.company.Main >> Method: com.company.Main.startTimedTask(Main.java:568) ]
+INFO:定时任务已开启！
+2020-09-25 12:41:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:41:00开始扫描数据库
+2020-09-25 12:41:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:41:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:41:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:41:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:41:04 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:33) ]
+INFO:数据有变动
+2020-09-25 12:41:04 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:40) ]
+INFO:2020-09-25 12:41:04扫描结束：4473ms
+2020-09-25 12:42:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:42:00开始扫描数据库
+2020-09-25 12:42:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:42:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:42:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:42:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:43:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:43:00开始扫描数据库
+2020-09-25 12:43:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:43:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:43:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:43:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:44:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:44:00开始扫描数据库
+2020-09-25 12:44:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:44:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:44:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:44:00 下午 [Thread: DefaultQuartzScheduler_Worker-4][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:45:02 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:45:02 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:45:02 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:45:02 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:45:02 下午 [Thread: JavaFX Application Thread][ Class:com.company.Main >> Method: com.company.Main.startTimedTask(Main.java:568) ]
+INFO:定时任务已开启！
+2020-09-25 12:46:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:46:00开始扫描数据库
+2020-09-25 12:46:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:46:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:46:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:46:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:46:04 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:33) ]
+INFO:数据有变动
+2020-09-25 12:46:04 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:40) ]
+INFO:2020-09-25 12:46:04扫描结束：4263ms
+2020-09-25 12:47:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:47:00开始扫描数据库
+2020-09-25 12:47:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:47:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:47:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:47:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 12:48:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 12:48:00开始扫描数据库
+2020-09-25 12:48:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 12:48:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 12:48:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 12:48:00 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 13:40:58 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 13:40:58 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 13:40:58 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 13:40:58 下午 [Thread: JavaFX Application Thread][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 13:40:59 下午 [Thread: JavaFX Application Thread][ Class:com.company.Main >> Method: com.company.Main.startTimedTask(Main.java:568) ]
+INFO:定时任务已开启！
+2020-09-25 13:41:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:27) ]
+INFO:2020-09-25 13:41:00开始扫描数据库
+2020-09-25 13:41:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 13:41:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 13:41:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 13:41:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp_mx;Index=2), making read-only
+2020-09-25 13:41:04 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:33) ]
+INFO:数据有变动
+2020-09-25 13:41:04 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.task.Detect >> Method: com.company.task.Detect.execute(Detect.java:40) ]
+INFO:2020-09-25 13:41:04扫描结束：4336ms
+2020-09-25 18:56:39 下午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 18:56:39 下午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 18:56:39 下午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only
+2020-09-25 18:57:27 下午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=0), making read-only
+2020-09-25 18:57:27 下午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=2), making read-only
+2020-09-25 18:57:27 下午 [Thread: main][ Class:com.healthmarketscience.jackcess.Index >> Method: com.healthmarketscience.jackcess.impl.IndexData.setUnsupportedReason(IndexData.java:352) ]
+WARN:unsupported collating sort order SortOrder[2052(0)] for text index (Db=TaxManager.accdb;Table=t_xxfp;Index=5), making read-only

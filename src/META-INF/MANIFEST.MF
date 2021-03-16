@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Main-Class: com.company.Main
+Class-Path: c3p0-0.9.1.1.jar commons-beanutils-1.7.0.jar commons-codec-1
+ .10.jar commons-collections-3.1.jar commons-httpclient-3.1.jar commons-
+ lang3-3.8.1.jar commons-lang-2.5.jar commons-logging-1.1.1.jar commons-
+ logging-1.2.jar ezmorph-1.0.3.jar fastjson-1.2.7.jar hsqldb-2.5.0.jar h
+ ttpclient-4.5.6.jar httpcore-4.4.10.jar ini4j-0.5.4.jar jackcess-3.0.1.
+ jar json-lib-2.4-jdk15.jar log4j-1.2.17.jar mysql-connector-java-8.0.18
+ .jar ojdbc8-19.7.0.0.jar quartz-2.2.1.jar quartz-jobs-2.2.1.jar slf4j-a
+ pi-1.7.25.jar sqlite-jdbc-3.7.2.jar sqljdbc4-4.0.jar ucanaccess-5.0.0.j
+ ar
+

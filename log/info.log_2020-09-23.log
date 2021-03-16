@@ -1,0 +1,28 @@
+2020-09-23 11:10:26 上午 [Thread: JavaFX Application Thread][ Class:com.company.tool.Utile >> Method: com.company.tool.Utile.whetherToConnect(Utile.java:103) ]
+ERROR:com.microsoft.sqlserver.jdbc.SQLServerDriver驱动加载启动失败:com.microsoft.sqlserver.jdbc.SQLServerException: 通过端口 151 连接到主机 1 的 TCP/IP 连接失败。错误:“Network is unreachable: connect。请验证连接属性。确保 SQL Server 的实例正在主机上运行，且在此端口接受 TCP/IP 连接，还要确保防火墙没有阻止到此端口的 TCP 连接。”。
+2020-09-23 11:10:53 上午 [Thread: JavaFX Application Thread][ Class:com.company.tool.Utile >> Method: com.company.tool.Utile.getAccessStatu(Utile.java:140) ]
+ERROR:数据库驱动加载失败:net.ucanaccess.jdbc.UcanaccessSQLException: UCAExc:::5.0.0-SNAPSHOT user lacks privilege or object not found: T_XXFP
+2020-09-23 13:13:12 下午 [Thread: JavaFX Application Thread][ Class:com.company.tool.Utile >> Method: com.company.tool.Utile.getAccessStatu(Utile.java:140) ]
+ERROR:数据库驱动加载失败:net.ucanaccess.jdbc.UcanaccessSQLException: UCAExc:::5.0.0-SNAPSHOT given file does not exist: C:\Users\xiawenjie\Desktop\TaxManager.accdb
+2020-09-23 13:24:05 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.company.db.Dbtool >> Method: com.company.db.Dbtool.contrastAccessDate(Dbtool.java:342) ]
+INFO:2020-09-23 13:24:05:t_xxft新增数据:1
+2020-09-23 13:24:05 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.company.db.Dbtool >> Method: com.company.db.Dbtool.contrastAccessDate(Dbtool.java:343) ]
+INFO:2020-09-23 13:24:05:t_xxft_mx新增数据:1
+2020-09-23 13:24:06 下午 [Thread: DefaultQuartzScheduler_Worker-3][ Class:com.company.db.Dbtool >> Method: com.company.db.Dbtool.savet_xxfp(Dbtool.java:540) ]
+ERROR:savet_xxfp数据记录失败！java.sql.BatchUpdateException: 字符串或二进制数据将在表“test.dbo.t_xxfp”，列“fpzl”中被截断。截断值:“nu”。
+2020-09-23 13:43:01 下午 [Thread: main][ Class:com.company.db.Dbtool >> Method: com.company.db.Dbtool.contrastAccessDate(Dbtool.java:343) ]
+INFO:2020-09-23 13:43:01:t_xxft新增数据:1
+2020-09-23 13:43:01 下午 [Thread: main][ Class:com.company.db.Dbtool >> Method: com.company.db.Dbtool.contrastAccessDate(Dbtool.java:344) ]
+INFO:2020-09-23 13:43:01:t_xxft_mx新增数据:1
+2020-09-23 13:46:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.company.db.Dbtool >> Method: com.company.db.Dbtool.contrastAccessDate(Dbtool.java:344) ]
+INFO:2020-09-23 13:46:00:t_xxft新增数据:1
+2020-09-23 13:46:00 下午 [Thread: DefaultQuartzScheduler_Worker-2][ Class:com.company.db.Dbtool >> Method: com.company.db.Dbtool.contrastAccessDate(Dbtool.java:345) ]
+INFO:2020-09-23 13:46:00:t_xxft_mx新增数据:1
+2020-09-23 13:55:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.db.Dbtool >> Method: com.company.db.Dbtool.contrastAccessDate(Dbtool.java:344) ]
+INFO:2020-09-23 13:55:00:t_xxft新增数据:1
+2020-09-23 13:55:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.db.Dbtool >> Method: com.company.db.Dbtool.contrastAccessDate(Dbtool.java:345) ]
+INFO:2020-09-23 13:55:00:t_xxft_mx新增数据:1
+2020-09-23 15:30:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.db.Dbtool >> Method: com.company.db.Dbtool.contrastAccessDate(Dbtool.java:344) ]
+INFO:2020-09-23 15:30:00:t_xxft新增数据:1
+2020-09-23 15:30:00 下午 [Thread: DefaultQuartzScheduler_Worker-1][ Class:com.company.db.Dbtool >> Method: com.company.db.Dbtool.contrastAccessDate(Dbtool.java:345) ]
+INFO:2020-09-23 15:30:00:t_xxft_mx新增数据:1

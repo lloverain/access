@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="access:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/access_jar</output-path>
+    <root id="root">
+      <element id="archive" name="access.jar">
+        <element id="module-output" name="access" />
+      </element>
+      <element id="library" level="project" name="Access" />
+    </root>
+  </artifact>
+</component>

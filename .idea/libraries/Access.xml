@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="Access">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/c3p0-0.9.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/commons-collections-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/commons-lang3-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/commons-lang-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/ezmorph-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/fastjson-1.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/hsqldb-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/httpclient-4.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/httpcore-4.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/ini4j-0.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/jackcess-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/mysql-connector-java-8.0.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/ojdbc8-19.7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/quartz-2.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/quartz-jobs-2.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/sqlite-jdbc-3.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/sqljdbc4-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/ucanaccess-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/com/company/lib/sqlite-jdbc-3.7.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>
